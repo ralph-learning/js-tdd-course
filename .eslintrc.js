@@ -5,7 +5,7 @@ module.exports = {
     "jsx-a11y",
     "import"
   ],
-  globals: {
-    describe: true
+  "globals": {
+    "describe": true
   }
 };
