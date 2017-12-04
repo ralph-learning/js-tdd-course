@@ -6,6 +6,7 @@ module.exports = {
     "import"
   ],
   "globals": {
-    "describe": true
+    "describe": true,
+    "it": true
   }
 };
